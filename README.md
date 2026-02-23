@@ -1,5 +1,5 @@
-# Abhijna R Chandra  
-Computational biologist focused on building scalable NGS and structure-based workflows that translate biological questions into production-ready computational systems.
+# Hello! 
+I am Abhijna R Chandra, a Computational biologist focused on building scalable NGS and structure-based workflows that translate biological questions into production-ready computational systems.
 
 ---
 
