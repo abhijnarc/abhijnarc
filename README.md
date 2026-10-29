@@ -1,6 +1,4 @@
-# Abhijna R Chandra 👋
-
-> Translating biological questions into scalable computational workflows  
+# Abhijna R Chandra 👋 
 
 -  Computational Biologist at Mazumdar Shaw Medical Foundation 
 -  Working on antibody discovery, immune repertoire analysis, and structure-based modelling  
